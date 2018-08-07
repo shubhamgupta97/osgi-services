@@ -1,6 +1,6 @@
 # OSGi Services
 
-## Code for having multiple implementations of an interface consumed all at once!
+## Multiple implementations of an interface consumed all at once!
 
 All implementations and the interface are in separate bundles. 
 *Shape* is the bundle containing the interface, *Main* is the consumer bundle.
